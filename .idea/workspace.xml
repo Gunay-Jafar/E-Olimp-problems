@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6b7721c-2418-4e47-a94c-64449159579e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOPadd.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/OOPadd/E_Olymp/Task1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/OOPadd/Lesson4/Task1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/OOPadd/Lesson4/Task2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/OOPadd/Lesson4/Task3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/E_Olymp/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/E_Olymp/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson4/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson4/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson4/Task3.java" afterDir="false" />
-    </list>
+    <list default="true" id="f6b7721c-2418-4e47-a94c-64449159579e" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -66,8 +51,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/E_Olymp/Task1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="7" column="32" lean-forward="true" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+            <state relative-caret-position="280">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -152,7 +137,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1595606944795" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1595607413576" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../demo" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -256,15 +241,16 @@
       <workItem from="1595514934052" duration="591000" />
       <workItem from="1595515637589" duration="302000" />
       <workItem from="1595586445260" duration="1842000" />
-      <workItem from="1595602564774" duration="908000" />
+      <workItem from="1595602564774" duration="1308000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8971000" />
+    <option name="totallyTimeSpent" value="9371000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24161074" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -333,8 +319,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/E_Olymp/Task1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="32" lean-forward="true" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+        <state relative-caret-position="280">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
