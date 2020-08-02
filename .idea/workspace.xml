@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f6b7721c-2418-4e47-a94c-64449159579e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/E_Olymp/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/E_Olymp/Task2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/E_Olymp/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/E_Olymp/Task3.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,36 +16,40 @@
     <session id="-54611136">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
-          <entry key="project.open.time.0" value="3" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.10" value="1" />
+          <entry key="project.closed" value="23" />
+          <entry key="project.open.time.0" value="4" />
+          <entry key="project.open.time.1" value="5" />
+          <entry key="project.open.time.10" value="4" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.6" value="3" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="9" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="5" />
+          <entry key="java" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="5" />
+          <entry key="JAVA" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="5" />
-          <entry key="java" value="1584" />
+          <entry key="java" value="2316" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1584" />
+          <entry key="JAVA" value="2316" />
           <entry key="PLAIN_TEXT" value="5" />
         </counts>
       </usages-collector>
@@ -56,17 +60,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/E_Olymp/Task1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="80">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/E_Olymp/Task2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="700">
+              <caret line="35" selection-start-line="35" selection-end-line="35" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/E_Olymp/Task2.java">
+        <entry file="file://$PROJECT_DIR$/src/E_Olymp/Task3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="34" column="37" lean-forward="true" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="37" />
+            <state relative-caret-position="-220">
+              <caret line="13" column="39" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -92,6 +105,7 @@
         <option value="$PROJECT_DIR$/src/Lesson4/Task3.java" />
         <option value="$PROJECT_DIR$/src/E_Olymp/Task1.java" />
         <option value="$PROJECT_DIR$/src/E_Olymp/Task2.java" />
+        <option value="$PROJECT_DIR$/src/E_Olymp/Task3.java" />
       </list>
     </option>
   </component>
@@ -101,7 +115,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
     <option name="width" value="1750" />
@@ -113,6 +127,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -136,13 +151,12 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1595855358422" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1596282978344" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -163,26 +177,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Task2 (1)">
+  <component name="RunManager" selected="Application.Task3 (1)">
     <configuration name="Task1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="E_Olymp.Task1" />
       <module name="OOPadd" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="E_Olymp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson4.Task1" />
-      <module name="OOPadd" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lesson4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -216,6 +217,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Task3 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="E_Olymp.Task3" />
+      <module name="OOPadd" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="E_Olymp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lesson4.Task3" />
       <module name="OOPadd" />
@@ -230,19 +244,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Task1" />
       <item itemvalue="Application.Task2" />
       <item itemvalue="Application.Task3" />
       <item itemvalue="Application.Task1 (1)" />
       <item itemvalue="Application.Task2 (1)" />
+      <item itemvalue="Application.Task3 (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task3 (1)" />
         <item itemvalue="Application.Task2 (1)" />
         <item itemvalue="Application.Task1 (1)" />
         <item itemvalue="Application.Task3" />
         <item itemvalue="Application.Task2" />
-        <item itemvalue="Application.Task1" />
       </list>
     </recent_temporary>
   </component>
@@ -264,18 +278,31 @@
       <workItem from="1595602564774" duration="1927000" />
       <workItem from="1595665712615" duration="3069000" />
       <workItem from="1595676463171" duration="1202000" />
-      <workItem from="1595853820219" duration="2149000" />
+      <workItem from="1595853820219" duration="5193000" />
+      <workItem from="1595862041819" duration="611000" />
+      <workItem from="1595874371225" duration="697000" />
+      <workItem from="1595915966360" duration="169000" />
+      <workItem from="1596029200040" duration="15000" />
+      <workItem from="1596031216699" duration="1970000" />
+      <workItem from="1596033780783" duration="284000" />
+      <workItem from="1596036388598" duration="1695000" />
+      <workItem from="1596053383906" duration="129000" />
+      <workItem from="1596053631649" duration="795000" />
+      <workItem from="1596264970124" duration="129000" />
+      <workItem from="1596282818598" duration="179000" />
+      <workItem from="1596283028464" duration="4000" />
+      <workItem from="1596283353472" duration="664000" />
+      <workItem from="1596304235979" duration="640000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16410000" />
+    <option name="totallyTimeSpent" value="27435000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25167784" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30604026" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -335,15 +362,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/E_Olymp/Task1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="80">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/E_Olymp/Task2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="34" column="37" lean-forward="true" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="37" />
+        <state relative-caret-position="700">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/E_Olymp/Task3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-220">
+          <caret line="13" column="39" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="39" />
         </state>
       </provider>
     </entry>
