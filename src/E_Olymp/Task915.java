@@ -2,6 +2,7 @@ package E_Olymp;
 
 import java.util.Scanner;
 
+//100
 public class Task915 {
     public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);
