@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Task905 {
     public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);
-        int[] teref=new int[2];
+        int[] teref=new int[3];
 
         for (int i=0;i<=teref.length;i++){
             teref[i]= scanner.nextInt();
