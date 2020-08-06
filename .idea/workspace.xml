@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6b7721c-2418-4e47-a94c-64449159579e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/E_Olymp/Task919.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E_Olymp/Task920.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -48,23 +48,23 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="49" />
+          <entry key="java" value="50" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="49" />
+          <entry key="JAVA" value="50" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="5" />
-          <entry key="java" value="9111" />
+          <entry key="java" value="9396" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="9111" />
+          <entry key="JAVA" value="9396" />
           <entry key="PLAIN_TEXT" value="5" />
         </counts>
       </usages-collector>
@@ -117,20 +117,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/E_Olymp/Task919.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+            <state relative-caret-position="80">
+              <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/E_Olymp/Task910.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/E_Olymp/Task920.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="560">
-              <caret line="28" column="30" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="36" />
+            <state relative-caret-position="220">
+              <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -204,6 +204,7 @@
         <option value="$PROJECT_DIR$/src/E_Olymp/Task917.java" />
         <option value="$PROJECT_DIR$/src/E_Olymp/Task918.java" />
         <option value="$PROJECT_DIR$/src/E_Olymp/Task919.java" />
+        <option value="$PROJECT_DIR$/src/E_Olymp/Task920.java" />
       </list>
     </option>
   </component>
@@ -280,7 +281,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1596714153843" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1596716456503" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -301,20 +302,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Task919">
-    <configuration name="Task912" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="E_Olymp.Task912" />
-      <module name="OOPadd" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="E_Olymp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Task920">
     <configuration name="Task913" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="E_Olymp.Task913" />
       <module name="OOPadd" />
@@ -367,20 +355,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Task920" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="E_Olymp.Task920" />
+      <module name="OOPadd" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="E_Olymp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Task912" />
       <item itemvalue="Application.Task917" />
       <item itemvalue="Application.Task913" />
       <item itemvalue="Application.Task918" />
       <item itemvalue="Application.Task919" />
+      <item itemvalue="Application.Task920" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task920" />
         <item itemvalue="Application.Task919" />
         <item itemvalue="Application.Task918" />
         <item itemvalue="Application.Task917" />
         <item itemvalue="Application.Task913" />
-        <item itemvalue="Application.Task912" />
       </list>
     </recent_temporary>
   </component>
@@ -426,12 +427,12 @@
       <workItem from="1596620868849" duration="5227000" />
       <workItem from="1596639805378" duration="81000" />
       <workItem from="1596710300135" duration="1642000" />
-      <workItem from="1596711980043" duration="1889000" />
+      <workItem from="1596711980043" duration="3009000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="76898000" />
+    <option name="totallyTimeSpent" value="78018000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -446,7 +447,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31946307" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31946307" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -678,8 +679,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/E_Olymp/Task919.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        <state relative-caret-position="80">
+          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/E_Olymp/Task920.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
         </state>
       </provider>
     </entry>
