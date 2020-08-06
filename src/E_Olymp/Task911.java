@@ -9,11 +9,7 @@ public class Task911 {
         int b=scanner.nextInt();
         int c=scanner.nextInt();
 
-
-        if(a==0){
-            return;
-        }
-        double D=Math.pow(b,2)-4*a*c ;
+        double D=b*b-4*a*c ;
 
         if (D>0){
             int root1= (int) ((-b-Math.sqrt(D))/(2*a));

@@ -6,23 +6,25 @@ public class Task907 {
     public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);
         int count=scanner.nextInt();
-        boolean a=true;
+        boolean isAllBig=true;
 
-        double[] nums=new double[count];
+        float[] nums=new float[count];
 
         for (int i=0;i<count;i++){
-            nums[i]=scanner.nextDouble();
-            if (nums[i]<2.5 && nums[i]>0){
-                System.out.print(i+" ");
+            nums[i]=scanner.nextFloat();
+            if (nums[i]<=2.5){
+                System.out.print((i+1)+" ");
                 System.out.printf("%.2f",nums[i]);
+                System.out.println();
+                isAllBig=false;
                 break;
+
             }
         }
 
-        for (int i=0;i<count;i++){
-            if (nums[i]>=2.5)
+            if (isAllBig)
                 System.out.println("Not found");
-        }
+
 
 
     }
