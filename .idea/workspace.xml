@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6b7721c-2418-4e47-a94c-64449159579e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/E_Olymp/Task941.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f6b7721c-2418-4e47-a94c-64449159579e" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,12 +59,12 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="5" />
-          <entry key="java" value="14263" />
+          <entry key="java" value="14269" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="14263" />
+          <entry key="JAVA" value="14269" />
           <entry key="PLAIN_TEXT" value="5" />
         </counts>
       </usages-collector>
@@ -141,8 +138,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/E_Olymp/Task941.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="17" column="37" lean-forward="true" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+            <state relative-caret-position="80">
+              <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -293,7 +290,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1596965749551" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1596966897505" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../book_Store" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -314,22 +311,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Task941">
+  <component name="RunManager" selected="Application.Task939">
     <configuration name="Task925" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="E_Olymp.Task925" />
-      <module name="OOPadd" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="E_Olymp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task926" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="E_Olymp.Task926" />
       <module name="OOPadd" />
       <extension name="coverage">
         <pattern>
@@ -367,6 +351,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Task939" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="E_Olymp.Task939" />
+      <module name="OOPadd" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="E_Olymp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Task941" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="E_Olymp.Task941" />
       <module name="OOPadd" />
@@ -381,19 +378,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Task926" />
       <item itemvalue="Application.Task925" />
       <item itemvalue="Application.Task933" />
       <item itemvalue="Application.Task935" />
       <item itemvalue="Application.Task941" />
+      <item itemvalue="Application.Task939" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task939" />
         <item itemvalue="Application.Task941" />
         <item itemvalue="Application.Task935" />
         <item itemvalue="Application.Task933" />
         <item itemvalue="Application.Task925" />
-        <item itemvalue="Application.Task926" />
       </list>
     </recent_temporary>
   </component>
@@ -444,12 +441,12 @@
       <workItem from="1596797726073" duration="2966000" />
       <workItem from="1596810904470" duration="4309000" />
       <workItem from="1596885559325" duration="10456000" />
-      <workItem from="1596962957764" duration="2588000" />
+      <workItem from="1596962957764" duration="3322000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="109925000" />
+    <option name="totallyTimeSpent" value="110659000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -461,10 +458,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34295303" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.34295303" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -814,8 +811,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/E_Olymp/Task941.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="17" column="37" lean-forward="true" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+        <state relative-caret-position="80">
+          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
         </state>
       </provider>
     </entry>
