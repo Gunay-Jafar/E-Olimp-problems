@@ -1,25 +1,22 @@
 package E_Olymp;
 
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Scanner;
 
 public class Task1605 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int input = scanner.nextInt();
-        int copy = input;
-        int say = 0;
+        List<Integer> list = new ArrayList<>();
+
 
         while (input != 0) {
             int qaliq = input % 10;
-            say++;
+            list.add(qaliq);
             input = input / 10;
         }
-
-        say = say - 2;
-
-        double second = (copy / Math.pow(10, say)) % 10;
-
-        System.out.println((int)second);
+        System.out.println( list.get(list.size() - 2));
 
 
     }
