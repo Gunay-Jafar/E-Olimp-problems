@@ -31,5 +31,6 @@ public class Task942 {
         System.out.printf("%.3f",D2);
 
 
+
     }
 }
