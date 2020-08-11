@@ -2,23 +2,28 @@ package E_Olymp;
 
 import java.util.Scanner;
 
-//100
-public class Task1603 {
+public class Task1604 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int input = scanner.nextInt();
         int qaliq;
-        int cem = 0;
-
-        if (input < 0) {
-            input *= (-1);
-        }
+        int hasil = 1;
 
         while (input != 0) {
             qaliq = input % 10;
-            cem += qaliq;
+            if (qaliq % 2 == 0){
+                hasil *= qaliq;
+            }
             input = input / 10;
         }
-        System.out.println(cem);
+
+        if (hasil == 1)
+            System.out.println("-1");
+        else
+            System.out.println(hasil);
+
+
     }
+
+
 }
