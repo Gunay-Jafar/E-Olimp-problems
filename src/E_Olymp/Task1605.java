@@ -1,22 +1,19 @@
 package E_Olymp;
 
-import java.util.ArrayList;
-import java.util.List;
+
 import java.util.Scanner;
 
+//100
 public class Task1605 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        int input = scanner.nextInt();
-        List<Integer> list = new ArrayList<>();
+        String str = scanner.nextLine();
+        int index = 1;
 
+        if (str.charAt(0) == '-')
+            index++;
 
-        while (input != 0) {
-            int qaliq = input % 10;
-            list.add(qaliq);
-            input = input / 10;
-        }
-        System.out.println( list.get(list.size() - 2));
+        System.out.println(str.charAt(index));
 
 
     }

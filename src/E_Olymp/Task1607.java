@@ -1,24 +1,15 @@
 package E_Olymp;
 
-import java.util.ArrayList;
-import java.util.List;
 import java.util.Scanner;
 
+//100
 public class Task1607 {
     public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);
-        int input = scanner.nextInt();
-        List<Integer> list = new ArrayList<>();
+        String str=scanner.nextLine();
 
-
-        while (input != 0) {
-            int qaliq = input % 10;
-            list.add(qaliq);
-            input = input / 10;
-        }
-
-        for (int c: list){
-            System.out.print(c);
+        for (int i=str.length()-1;i>=0;i--){
+            System.out.print(str.charAt(i));
         }
 
 
