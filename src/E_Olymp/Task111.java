@@ -13,27 +13,17 @@ public class Task111 {
         String part4 = parts[3]; //10
 
         int say = 0;
+        int hours;
 
-        if (part2.equals("30")) {
-            say++;
+        if (part2.equals("00")){
+            hours=Integer.parseInt(part3)-Integer.parseInt(part1)+1;
+        }else {
+            hours=Integer.parseInt(part3)-Integer.parseInt(part1);
         }
-        if (part4.equals("30")) {
-            say++;
-        }
-        if (part2.equals("00")) {
-            int n = Integer.parseInt(part1);
-            if (n > 12) {
-                n = n - 12;
-            }
-            say += n;
-        }
-        if (part4.equals("00")) {
-            int z = Integer.parseInt(part3);
-            if (z > 12) {
-                z = z - 12;
-            }
-            say += z;
-        }
+
+        say+=hours;
+
+
         System.out.println(say);
     }
 }
