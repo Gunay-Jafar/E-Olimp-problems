@@ -13,12 +13,12 @@ public class Task107 {
         int iyirmilikSayi = qaliq / 20;
         int qaliq2 = qaliq - iyirmilikSayi * 20;
 
-        if (qaliq >=65) {
+        if (qaliq >= 65 && qaliq <= 99) {
             System.out.println(yuzlukSayi * 100 + 100);
+        } else if (qaliq >= 16 && qaliq <= 19) {
+            System.out.println(yuzlukSayi * 100 + 30);
         } else {
             System.out.println(yuzlukSayi * 100 + iyirmilikSayi * 30 + qaliq2 * 2);
         }
-
-
     }
 }
