@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6b7721c-2418-4e47-a94c-64449159579e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Lesson4/Task.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPadd/E_Olymp/Task111.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPadd/E_Olymp/Task111.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPadd/E_Olymp/Task113.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPadd/E_Olymp/Task113.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/E_Olymp/Task107.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/E_Olymp/Task107.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/E_Olymp/Task111.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/E_Olymp/Task111.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/E_Olymp/Task109.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/E_Olymp/Task109.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -92,22 +88,22 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="137" />
+          <entry key="java" value="138" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="137" />
+          <entry key="JAVA" value="138" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2333" />
+          <entry key="java" value="2561" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2333" />
+          <entry key="JAVA" value="2561" />
         </counts>
       </usages-collector>
     </session>
@@ -115,10 +111,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/E_Olymp/Task107.java">
+        <entry file="file://$PROJECT_DIR$/src/E_Olymp/Task109.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="148">
-              <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+            <state relative-caret-position="120">
+              <caret line="6" column="49" lean-forward="true" selection-end-line="25" />
             </state>
           </provider>
         </entry>
@@ -186,9 +182,9 @@
         <option value="$PROJECT_DIR$/src/E_Olymp/Tasl11.java" />
         <option value="$PROJECT_DIR$/src/E_Olymp/Task113.java" />
         <option value="$PROJECT_DIR$/src/E_Olymp/Task111.java" />
-        <option value="$PROJECT_DIR$/src/E_Olymp/Task109.java" />
         <option value="$PROJECT_DIR$/src/Lesson4/Task.java" />
         <option value="$PROJECT_DIR$/src/E_Olymp/Task107.java" />
+        <option value="$PROJECT_DIR$/src/E_Olymp/Task109.java" />
       </list>
     </option>
   </component>
@@ -265,7 +261,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1600508237171" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1600515737620" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -286,7 +282,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Task107">
+  <component name="RunManager" selected="Application.Task109">
     <configuration name="Task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lesson4.Task" />
       <module name="OOPadd" />
@@ -361,9 +357,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task109" />
         <item itemvalue="Application.Task107" />
         <item itemvalue="Application.Task" />
-        <item itemvalue="Application.Task109" />
         <item itemvalue="Application.Task111" />
         <item itemvalue="Application.Task113" />
       </list>
@@ -435,12 +431,12 @@
       <workItem from="1600240649255" duration="1137000" />
       <workItem from="1600324614758" duration="31000" />
       <workItem from="1600441750133" duration="1584000" />
-      <workItem from="1600506680412" duration="1424000" />
+      <workItem from="1600506680412" duration="4618000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="161772000" />
+    <option name="totallyTimeSpent" value="164966000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -464,7 +460,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49932885" visible="true" weight="0.46666667" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932885" weight="0.46666667" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -835,13 +831,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/E_Olymp/Task109.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Developia/Task3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
@@ -889,8 +878,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/E_Olymp/Task107.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+        <state relative-caret-position="480">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/E_Olymp/Task109.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="49" lean-forward="true" selection-end-line="25" />
         </state>
       </provider>
     </entry>
