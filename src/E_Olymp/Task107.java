@@ -8,12 +8,18 @@ public class Task107 {
         int input = scanner.nextInt();
 
         int yuzlukSayi = input / 100;
-        int qaliq = input - yuzlukSayi * 100;
+        int qaliq = input % 100;
+
+        if (qaliq > 65)
+            qaliq = 65;
 
         int iyirmilikSayi = qaliq / 20;
-        int qaliq2 = qaliq - iyirmilikSayi * 20;
+        int qaliq2 = qaliq % 20;
 
-        if (qaliq >= 65 && qaliq <= 99) {
+        if (qaliq2 > 15)
+            qaliq2 = 15;
+
+        if (qaliq >= 65) {
             System.out.println(yuzlukSayi * 100 + 100);
         } else if (qaliq >= 16 && qaliq <= 19) {
             System.out.println(yuzlukSayi * 100 + 30);
