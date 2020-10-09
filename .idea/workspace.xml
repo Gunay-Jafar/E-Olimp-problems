@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6b7721c-2418-4e47-a94c-64449159579e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Algoritms/OklidAlgo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/E_Olymp/Task27.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/Cars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/Enum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/ToStringExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Polimorfizm.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPadd/E_Olymp/Task3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/OOPadd/E_Olymp/Task3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/E_Olymp/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/E_Olymp/Task3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +77,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.OklidAlgo">
+  <component name="RunManager" selected="Application.Polimorfizm">
     <configuration name="IslemYap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TestInterface.IslemYap" />
       <module name="OOPadd" />
@@ -103,6 +97,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Algoritms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Polimorfizm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.Polimorfizm" />
+      <module name="OOPadd" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,46 +143,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ToStringExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.ToStringExample" />
-      <module name="OOPadd" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.ToStringExample" />
       <item itemvalue="Application.IslemYap" />
       <item itemvalue="Application.Task3" />
       <item itemvalue="Application.Task27" />
       <item itemvalue="Application.OklidAlgo" />
+      <item itemvalue="Application.Polimorfizm" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Polimorfizm" />
         <item itemvalue="Application.OklidAlgo" />
         <item itemvalue="Application.Task3" />
         <item itemvalue="Application.Task27" />
         <item itemvalue="Application.IslemYap" />
-        <item itemvalue="Application.ToStringExample" />
       </list>
     </recent_temporary>
   </component>
@@ -264,7 +245,10 @@
       <workItem from="1602098054566" duration="2494000" />
       <workItem from="1602149964495" duration="721000" />
       <workItem from="1602175677090" duration="2081000" />
-      <workItem from="1602184826930" duration="1019000" />
+      <workItem from="1602184826930" duration="2445000" />
+      <workItem from="1602226018127" duration="207000" />
+      <workItem from="1602234554252" duration="989000" />
+      <workItem from="1602240297163" duration="596000" />
     </task>
     <servers />
   </component>
@@ -281,26 +265,30 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="154" key="FileChooserDialogImpl" timestamp="1602184705282">
+    <state x="574" y="119" key="#com.intellij.ide.util.MemberChooser" timestamp="1602234890314">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="154" key="FileChooserDialogImpl/0.0.1536.824/-120.1080.2160.1080@0.0.1536.824" timestamp="1602184705282" />
-    <state width="1493" height="309" key="GridCell.Tab.0.bottom" timestamp="1602185469813">
+    <state x="574" y="119" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/-120.1080.2160.1080@0.0.1536.824" timestamp="1602234890314" />
+    <state x="549" y="154" key="FileChooserDialogImpl" timestamp="1602235993052">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="309" key="GridCell.Tab.0.bottom/0.0.1536.824/-120.1080.2160.1080@0.0.1536.824" timestamp="1602185469813" />
-    <state width="1493" height="309" key="GridCell.Tab.0.center" timestamp="1602185469813">
+    <state x="549" y="154" key="FileChooserDialogImpl/0.0.1536.824/-120.1080.2160.1080@0.0.1536.824" timestamp="1602235993052" />
+    <state width="1493" height="309" key="GridCell.Tab.0.bottom" timestamp="1602236005094">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="309" key="GridCell.Tab.0.center/0.0.1536.824/-120.1080.2160.1080@0.0.1536.824" timestamp="1602185469813" />
-    <state width="1493" height="309" key="GridCell.Tab.0.left" timestamp="1602185469813">
+    <state width="1493" height="309" key="GridCell.Tab.0.bottom/0.0.1536.824/-120.1080.2160.1080@0.0.1536.824" timestamp="1602236005094" />
+    <state width="1493" height="309" key="GridCell.Tab.0.center" timestamp="1602236005093">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="309" key="GridCell.Tab.0.left/0.0.1536.824/-120.1080.2160.1080@0.0.1536.824" timestamp="1602185469812" />
-    <state width="1493" height="309" key="GridCell.Tab.0.right" timestamp="1602185469813">
+    <state width="1493" height="309" key="GridCell.Tab.0.center/0.0.1536.824/-120.1080.2160.1080@0.0.1536.824" timestamp="1602236005093" />
+    <state width="1493" height="309" key="GridCell.Tab.0.left" timestamp="1602236005093">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="309" key="GridCell.Tab.0.right/0.0.1536.824/-120.1080.2160.1080@0.0.1536.824" timestamp="1602185469813" />
+    <state width="1493" height="309" key="GridCell.Tab.0.left/0.0.1536.824/-120.1080.2160.1080@0.0.1536.824" timestamp="1602236005093" />
+    <state width="1493" height="309" key="GridCell.Tab.0.right" timestamp="1602236005093">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="309" key="GridCell.Tab.0.right/0.0.1536.824/-120.1080.2160.1080@0.0.1536.824" timestamp="1602236005093" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1602101940598">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
